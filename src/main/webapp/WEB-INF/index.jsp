@@ -4,14 +4,14 @@
 		<meta charset="UTF-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 		<link rel="stylesheet" href="${pageContext.request.contextPath}/assets/css/index.css" />
-		<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+		<link rel="stylesheet" href="${pageContext.request.contextPath}/assets/bootstrap/bootstrap.min.css" />
 		<title>Accueil</title>
 	</head>
 	<body>
 		<div class="pack"></div>
 		<!--Background video-->
 		<video autoplay muted loop id="background-video">
-			<source src="/assets/bgvid.mp4" type="video/mp4" />
+			<source src="${pageContext.request.contextPath}/assets/bgvid.mp4" type="video/mp4" />
 		</video>
 		<!--Signup-->
 		<div
@@ -21,7 +21,7 @@
 		>
 			<h3 class="mb-3">INSCRIPTION</h3>
 			<div class="mb-3">
-				<b class="text-danger">Inscription √©chou√©</b>
+				<b class="text-danger">Inscription ÈchouÈ</b>
 			</div>
 			<form action="">
 				<div class="row">
@@ -109,14 +109,14 @@
 				</div>
 
 				<p class="text-muted">
-					Vous avez d√©j√† un compte ?
+					Vous avez dÈj‡† un compte ?
 					<span id="connexion">Connexion</span>
 				</p>
 				<p class="text-muted" style="font-size: 0.8rem">
 					En vous inscrivant, vous acceptez nos
 					<a href="#" target="_blank">Conditions d'utilisation</a>
 					et notre
-					<a href="#" target="_blank">Politique de confidentialit√©</a
+					<a href="#" target="_blank">Politique de confidentialitÈ</a
 					>. Si vous avez des questions, veuillez consulter notre
 					<a href="#" target="_blank">Centre d'aide</a>.
 				</p>
@@ -126,7 +126,7 @@
 		<div class="login-form text-center p-4 rounded-2" id="login-form">
 			<h3 class="mb-3">CONNEXION</h3>
 			<div class="mb-3">
-				<b class="text-danger">Connexion √©chou√©</b>
+				<b class="text-danger">Connexion ÈchouÈ</b>
 			</div>
 
 			<form action="">
@@ -171,14 +171,14 @@
 					En vous connectant, vous acceptez nos
 					<a href="#" target="_blank">Conditions d'utilisation</a>
 					et notre
-					<a href="#" target="_blank">Politique de confidentialit√©</a
+					<a href="#" target="_blank">Politique de confidentialitÈ</a
 					>. Si vous avez des questions, veuillez consulter notre
 					<a href="#" target="_blank">Centre d'aide</a>.
 				</p>
 			</form>
 		</div>
-		<script src="bootstrap.bundle.min.js"></script>
-		<script src="index.js"></script>
+		<script src="${pageContext.request.contextPath}/assets/bootstrap/bootstrap.bundle.min.js"></script>
+		<script src="${pageContext.request.contextPath}/assets/js/index.js"></script>
 	</body>
 </html>
 <!--<div
