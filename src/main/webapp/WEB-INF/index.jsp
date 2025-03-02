@@ -21,7 +21,7 @@
 		>
 			<h3 class="mb-3">INSCRIPTION</h3>
 			<div class="mb-3">
-				<b class="text-danger">Inscription échoué</b>
+				<b class="text-danger">Inscription echoue</b>
 			</div>
 			<form action="">
 				<div class="row">
@@ -109,14 +109,14 @@
 				</div>
 
 				<p class="text-muted">
-					Vous avez déjà  un compte ?
+					Vous avez deja un compte ?
 					<span id="connexion">Connexion</span>
 				</p>
 				<p class="text-muted" style="font-size: 0.8rem">
 					En vous inscrivant, vous acceptez nos
 					<a href="#" target="_blank">Conditions d'utilisation</a>
 					et notre
-					<a href="#" target="_blank">Politique de confidentialité</a
+					<a href="#" target="_blank">Politique de confidentialite</a
 					>. Si vous avez des questions, veuillez consulter notre
 					<a href="#" target="_blank">Centre d'aide</a>.
 				</p>
@@ -126,7 +126,7 @@
 		<div class="login-form text-center p-4 rounded-2" id="login-form">
 			<h3 class="mb-3">CONNEXION</h3>
 			<div class="mb-3">
-				<b class="text-danger">Connexion échoué</b>
+				<b class="text-danger">Connexion echoue</b>
 			</div>
 
 			<form action="">
@@ -171,7 +171,7 @@
 					En vous connectant, vous acceptez nos
 					<a href="#" target="_blank">Conditions d'utilisation</a>
 					et notre
-					<a href="#" target="_blank">Politique de confidentialité</a
+					<a href="#" target="_blank">Politique de confidentialitï¿½</a
 					>. Si vous avez des questions, veuillez consulter notre
 					<a href="#" target="_blank">Centre d'aide</a>.
 				</p>
