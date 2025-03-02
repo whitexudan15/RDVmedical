@@ -171,7 +171,7 @@
 					En vous connectant, vous acceptez nos
 					<a href="#" target="_blank">Conditions d'utilisation</a>
 					et notre
-					<a href="#" target="_blank">Politique de confidentialit�</a
+					<a href="#" target="_blank">Politique de confidentialite</a
 					>. Si vous avez des questions, veuillez consulter notre
 					<a href="#" target="_blank">Centre d'aide</a>.
 				</p>
