@@ -8,6 +8,9 @@
     <welcome-file>default.html</welcome-file>
     <welcome-file>default.jsp</welcome-file>
     <welcome-file>default.htm</welcome-file>
+    
+    <welcome-file>patient.jsp</welcome-file>
+    <welcome-file>patient.html</welcome-file>
   </welcome-file-list>
   
   <jsp-config>
